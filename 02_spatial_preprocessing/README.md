@@ -14,7 +14,7 @@ In this folder, all scripts are functions that are used by scripts in ```02_spat
 
 Every script that starts with ```find``` finds the correct, i.e. closest in time, NDVI or OWASIS file for the airborne footprint or tower measurement. 
 
-Every script that starts with ```calc``` means: calculate value for XXX in the airborne footprint, where XXX can be ```ruimt_data``` : soil and land use maps; ```spat_temp_data```: spatial temporal data, OWASIS variables, or ```ndvi```: NDVI.
+Every script that starts with ```calc``` means: calculate value for XXX in the airborne footprint. XXX can be ```ruimt_data```: soil and land use maps; ```spat_temp_data```: OWASIS variables, or ```ndvi```: NDVI.
 
 ```importMaps``` is a function to read the soil and land use class maps that were provided by Water Systems & Global Change. 
 
