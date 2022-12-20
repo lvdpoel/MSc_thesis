@@ -10,5 +10,5 @@ Based on the correlation and the XGBoost feature importance, a pre-selection of 
 
 4. ```seq_backw_feat_sel_sbfs``` performs SBFS on the pre-selected features, for all three datasets. This results in a dataframe with all obtained metrics, for every subset of features that was run.
 5. ```analyse_metrics_sbfs``` analyses these metrics, and creates a plot visualizing the results. Based on this, the optimal features are chosen. 
-6. ```hyperparam_tuning``` uses these optimal features to perform hyperparameter tuning in a grid-mannered way, with GridSearchCV. This results in the optimal hyperparameters.
+6. ```hyperparam_tuning``` uses these optimal features to perform hyperparameter tuning in a grid-mannered way, with GridSearchCV. Again, this is done for all models separately. This results in the optimal hyperparameters.
 
