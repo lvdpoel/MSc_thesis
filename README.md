@@ -2,7 +2,7 @@
 
 In this directory I present the scripts used for my Master Thesis: **Analysing airborne CO2 flux measurements in relation to landscape characteristics with machine learning** 
 
-Master Thesis Water Systems and Global Change Group in partial fulfillment of the degree of Master of Science in Climate Studies at Wageningen University, the Netherlands. The scripts are organized in folders which are ordered in the same way as in the thesis. 
+Master Thesis Water Systems and Global Change Group in partial fulfillment of the degree of Master of Science in Climate Studies at Wageningen University, the Netherlands. The scripts are organized in folders which are ordered in the same way as the thesis. 
 
 Supervisors: dr. R.W.A. Hutjes, dr. B. Kruijt
 
@@ -10,7 +10,7 @@ Examiner: dr. S. Paparrizos
 
 ## Scripts
 
-The folders are structured in the same way as the thesis and contain all necessary scripts to carry out the research. 
+The folders contain all necessary scripts to carry out the research. 
 In every folder, there is a README.md file where I explain what is done in which script. Below, I present an overview of tasks per folder.
 
 **Overview**
